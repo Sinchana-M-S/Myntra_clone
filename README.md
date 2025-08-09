@@ -1,3 +1,3 @@
-<h1>Myntra_Clone</h1>
+<h3>Myntra_Clone</h3>
 
 Myntra Clone Design using HTML and CSS
